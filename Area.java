@@ -1,4 +1,4 @@
- public class Area{
+ class Area{
     public static void main( String arr[])
     {
         int a=10,b=20,area;
